@@ -1,0 +1,19 @@
+Version 3.0 Changelog:
+
+>[Base Update] 261.0.0.21.111
+
+>[Add] All the new Instagram features
+
+>[Add] An option to change the shape of the stories in the circular and square shape of the additions, then reinforcement, then open the stories in full screen mode
+
+>[Improve] Story size increase feature
+
+>[Return] The feature of changing fonts and adding iPhone fonts
+
+>[Fixed] The problem of stories appearing in square shape
+
+>[Fixed] problem of crashing when opening the application
+
+>[Fixed] Download Rails button
+
+>[Fixed] Several random crashes and crashes
